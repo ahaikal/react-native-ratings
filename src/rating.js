@@ -17,22 +17,22 @@ const TYPES = {
   star: {
     source: STAR_IMAGE,
     color: '#f1c40f',
-    backgroundColor: 'white',
+    backgroundColor: 'transparent',
   },
   heart: {
     source: HEART_IMAGE,
     color: '#e74c3c',
-    backgroundColor: 'white',
+    backgroundColor: 'transparent',
   },
   rocket: {
     source: ROCKET_IMAGE,
     color: '#2ecc71',
-    backgroundColor: 'white',
+    backgroundColor: 'transparent',
   },
   bell: {
     source: BELL_IMAGE,
     color: '#f39c12',
-    backgroundColor: 'white',
+    backgroundColor: 'transparent',
   },
 };
 
